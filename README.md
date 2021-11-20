@@ -9,7 +9,7 @@ Eu achei esse projeto muito interessante por dar a possibilidade de utilizar div
 Também tem a possibilidade de trabalhar com aspectos diferentes de recomendação, como por popularidade e por filtragem colaborativa.
 Para a construção do sistema, resolvi fazer baseado em filtragem colaborativa, por se tratar de um sistema mais avançado.
 
-## Sobre o modelo utilziado
+## Sobre o modelo utilizado
 O modelo de filtragem colaborativa parte da satisfação (positiva ou negativa) do usuário perante produto apresentado (Séries, filmes, animes, produtos, etc.). .
 Transformaremos esses gostos ou desgostos em vetores de número e compararemos o ângulo entre esses vetores.
 Quanto quanto mais baixo os ângulos dos vetores mais semelhente e quanto mais altos, mais diferentes.
